@@ -1,0 +1,8 @@
+C:\Users\technopc\OneDrive\Desktop\Validation_Service\Validation_Service\bin\Debug\Validation_Service.exe.config
+C:\Users\technopc\OneDrive\Desktop\Validation_Service\Validation_Service\bin\Debug\Validation_Service.exe
+C:\Users\technopc\OneDrive\Desktop\Validation_Service\Validation_Service\bin\Debug\Validation_Service.pdb
+C:\Users\technopc\OneDrive\Desktop\Validation_Service\Validation_Service\obj\Debug\Validation_Service.csproj.AssemblyReference.cache
+C:\Users\technopc\OneDrive\Desktop\Validation_Service\Validation_Service\obj\Debug\Validation_Service.csproj.CoreCompileInputs.cache
+C:\Users\technopc\OneDrive\Desktop\Validation_Service\Validation_Service\obj\Debug\Validation_Service.exe
+C:\Users\technopc\OneDrive\Desktop\Validation_Service\Validation_Service\obj\Debug\Validation_Service.pdb
+C:\Users\technopc\OneDrive\Desktop\Validation_Service\Validation_Service\obj\Debug\Validation_Service.exe.config
