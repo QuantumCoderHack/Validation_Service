@@ -1,4 +1,3 @@
-```markdown
 # ✅ Validation Service – C# Input Validation Library
 
 A lightweight **Validation Service** built with **C#** that helps developers validate user input and application data before processing or storing it.
@@ -9,27 +8,26 @@ This service centralizes validation logic in one place, making applications **cl
 
 ## 🚀 Features
 
-- Centralized validation logic
-- Reusable validation methods
-- Simple and clean structure
-- Reduces repetitive validation code
-- Easy integration with any C# project
-- Supports common validation scenarios
+* Centralized validation logic
+* Reusable validation methods
+* Simple and clean structure
+* Reduces repetitive validation code
+* Easy integration with any C# project
+* Supports common validation scenarios
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **C#**
-- **.NET Framework / .NET**
-- **Object-Oriented Programming (OOP)**
+* **C#**
+* **.NET / .NET Framework**
+* **Object-Oriented Programming (OOP)**
 
 ---
 
 ## 📂 Project Structure
 
 ```
-
 ValidationService
 │
 ├── Program.cs
@@ -40,8 +38,7 @@ ValidationService
 │   └── User.cs
 │
 └── README.md
-
-````
+```
 
 ---
 
@@ -49,10 +46,10 @@ ValidationService
 
 The **Validation Service** contains methods that check if the provided data meets specific conditions such as:
 
-- Required fields
-- Minimum length
-- Email format validation
-- Numeric validation
+* Required fields
+* Minimum length
+* Email format validation
+* Numeric validation
 
 Instead of writing validation logic multiple times, the application calls the **ValidationService methods**.
 
@@ -88,7 +85,7 @@ public class ValidationService
         return int.TryParse(value, out _);
     }
 }
-````
+```
 
 ---
 
@@ -144,6 +141,3 @@ By separating validation logic into a dedicated service, developers can keep the
 
 Contributions, suggestions, and improvements are welcome.
 Feel free to fork the repository and submit a pull request.
-
-```
-```
